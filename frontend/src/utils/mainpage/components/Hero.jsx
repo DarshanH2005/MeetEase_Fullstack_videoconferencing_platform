@@ -128,7 +128,7 @@ export default function Hero() {
               size="small"
               variant="outlined"
               aria-label="Enter your Meet Link"
-              placeholder="Paste link Here..."
+              placeholder="Set Key ... && After Joining Meet Share URL to JOIN"
               fullWidth
               slotProps={{
                 htmlInput: {
