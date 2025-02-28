@@ -7,10 +7,18 @@ MeetEase is a full-stack video conferencing platform modeled after Zoom. Built w
 Experience MeetEase live at:  
 [https://meeteasefront.vercel.app/](https://meeteasefront.vercel.app/)
 
+
+
+         ⚠️ **Please note:**
+
+         The backend hosted on Render goes to sleep after periods of inactivity, so the first request may experience a delay of up to 20 seconds.
+
+
+
 **How to Use the Deployed Site:**
 1. Visit the above link to access the live version.
 2. Schedule or join meetings instantly.
-3. After joining meet share your URL as MEETLINK to JOIN
+3. After joining meet share your URL as MEETLINK to JOIN  
 4. Utilize features like screen sharing, chat, and real-time video/audio communication.
 
 ---
