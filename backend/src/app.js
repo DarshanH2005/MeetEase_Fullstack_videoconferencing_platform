@@ -36,7 +36,7 @@ app.use((err, req, res, next) => {
 
 const start = async () => {
     try {
-        await mongoose.connect('mongodb+srv://darshan1970h:K6JevlKEKsa2YL5g@zoom.qqgjf.mongodb.net/?retryWrites=true&w=majority&appName=Zoom');
+        await mongoose.connect('mongodb+srv://darshan1970h:MUjdqTUP9nmG2Vhl@zoom.qqgjf.mongodb.net/?retryWrites=true&w=majority&appName=Zoom');
         console.log('✅ Connected to MongoDB');
 
         io = connecttosocket(server);
